@@ -26,4 +26,4 @@ An emergency room bed management dashboard displaying real-time ward occupancy, 
 
 ## Author
 
-Manoj — PES1UG24CS265, Section E, PES University (CSE, 2024–28 batch)
+Manoj — PES1UG24CS265, Section E.
